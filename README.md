@@ -1,6 +1,8 @@
 ### Hi there 👋
 Python Developer, CTO, Devops Engineer, Infosec engineer, Infosec conference speaker.
 
+South African
+
 Big on asyncio, postgresql, scale problems, infosec, cloud and startups.
 
 ### Summary Cards
