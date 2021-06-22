@@ -27,6 +27,10 @@ www.christogoosen.co.za
 <a href="https://twitter.com/crypticG00se" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crypticG00se" height="30" width="40" /></a>
 </p>
 
+### Buy me a coffee
+
+buymeacoffee.com/crypticg00se                
+
 
 
 
