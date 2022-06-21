@@ -1,5 +1,7 @@
 ### Hi there 👋
-Python Developer, CTO, Devops Engineer, Infosec engineer, Infosec conference speaker.
+Backend Developer, CTO, Devops Engineer, Infosec engineer, Infosec conference speaker.
+
+Lang: Python, Typescript, Golang, Rust, Bash, etc.
 
 South African
 
