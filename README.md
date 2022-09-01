@@ -1,5 +1,5 @@
 ### Hi there 👋
-Backend Developer, CTO, Devops Engineer, Infosec engineer, Infosec conference speaker.
+DevSecOps Lead, Backend Developer, CTO, Devops Engineer, Infosec engineer, Infosec conference speaker.
 
 Lang: Python, Typescript, Golang, Rust, Bash, etc.
 
