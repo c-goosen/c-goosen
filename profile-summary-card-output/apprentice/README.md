@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/c-goosen/c-goosen/master/profile-summary-card-output/apprentice/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/c-goosen/c-goosen/master/profile-summary-card-output/apprentice/4-productive-time.svg)
-```
-
-    
