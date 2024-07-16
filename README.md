@@ -12,6 +12,8 @@ Ex CTO of www.takectrl.co.za from angel to MTN financial app of the year 2018 wi
 ### Startup
 mzansi.ai
 
+Built [](elecitons.mzansi.ai)
+
 ### Websites or blogs
 My Company: www.anomaloustech.co.za
 Personal Website/blog: www.christogoosen.co.za
