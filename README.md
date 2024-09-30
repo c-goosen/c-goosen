@@ -1,5 +1,5 @@
 ### Hi there 👋
-DevSecOps Lead, Backend Developer, CTO, Devops Engineer, Infosec engineer, Infosec conference speaker.
+DevSecOps Lead, Backend Developer, CTO, Hacker.
 
 Lang: Python, Typescript, Golang, Rust, Bash, etc.
 
@@ -15,12 +15,12 @@ mzansi.ai
 Built [](elecitons.mzansi.ai)
 
 ### Websites or blogs
-My Company: www.anomaloustech.co.za
+My Company: www.anomaloustech.co.za / mzansi.ai
 Personal Website/blog: www.christogoosen.co.za
 
 
 ### BSIDES Cape Town
-Leader 2019-2022
+Leader 2019-Ongoing
 Organiser
 https://github.com/bsidescapetown
 https://bsidescapetown.co.za/
