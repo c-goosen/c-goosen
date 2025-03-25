@@ -1,7 +1,7 @@
 ### Hi there 👋
 DevSecOps Lead, Backend Developer, CTO, Hacker.
 
-Lang: Python, Typescript, Golang, Rust, Bash, etc.
+Lang: Python, Typescript, Golang, Bash, etc.
 
 South African
 
