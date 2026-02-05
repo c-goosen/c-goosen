@@ -10,7 +10,7 @@ Big on asyncio, postgresql, kubernetes, scale problems, infosec, cloud, natural 
 Ex CTO of www.takectrl.co.za from angel to MTN financial app of the year 2018 winner (https://www.takectrl.co.za/news_article/mtn-business-app-of-the-year-awards/) post round 1 funding (https://ventureburn.com/2019/02/ctrl-ceo-santam-investment/). 
 
 ### Startup
-Building things with LLMs and RAG: mzansi.ai
+Stealt startups loading.......
 
 Built [](elecitons.mzansi.ai)
 
